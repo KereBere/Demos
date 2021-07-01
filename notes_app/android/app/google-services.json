@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20251830982",
+    "project_id": "todosapp-fff23",
+    "storage_bucket": "todosapp-fff23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20251830982:android:00620dbf850222163bc5c7",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20251830982-g0r7a9glncls7eh0hvjpfifaqijljhns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkuMvSTojp5-GJ51tmw3fNGluoUeoXm9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20251830982-g0r7a9glncls7eh0hvjpfifaqijljhns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
