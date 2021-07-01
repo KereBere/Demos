@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773600077935",
+    "project_id": "flash-chat-4f628",
+    "storage_bucket": "flash-chat-4f628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773600077935:android:1ec3fb82484c9ee7eac59a",
+        "android_client_info": {
+          "package_name": "com.aliko.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773600077935-v7gc871murtp6p3430pp3req15utaj1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtkXbEUZPWUep7ei59wNtbw5ZjoQ9aNb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773600077935-v7gc871murtp6p3430pp3req15utaj1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
